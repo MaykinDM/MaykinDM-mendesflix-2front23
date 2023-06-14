@@ -43,8 +43,20 @@ body{
    margin: 6em;
    text-align:  center;
 }
-.container aviso{
+.container_aviso{
   padding: 10px;
   font-size: 10px
 
+}
+.container.secundario{
+ width: 80%;   
+}
+.secundario{
+    align-items: center;
+    margin: 0 auto;
+}
+.descricao_titulo{
+    font-weight: 700;
+    font-size: 40px;
+    color: var(--branco-principal)
 }
